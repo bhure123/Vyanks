@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vyanks/static/css/main.dc4d6ff2.css",
+    "main.js": "/Vyanks/static/js/main.8069f522.js",
+    "static/js/453.251c4735.chunk.js": "/Vyanks/static/js/453.251c4735.chunk.js",
+    "index.html": "/Vyanks/index.html",
+    "main.dc4d6ff2.css.map": "/Vyanks/static/css/main.dc4d6ff2.css.map",
+    "main.8069f522.js.map": "/Vyanks/static/js/main.8069f522.js.map",
+    "453.251c4735.chunk.js.map": "/Vyanks/static/js/453.251c4735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8069f522.js"
+  ]
+}
